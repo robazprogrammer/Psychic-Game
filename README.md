@@ -6,3 +6,6 @@ There's also number generation.
 
 Languages used: HTML, CSS, Javascript
 
+Check out the site at:
+https://robazprogrammer.github.io/Psychic-Game/
+
